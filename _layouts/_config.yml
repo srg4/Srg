@@ -7,3 +7,9 @@ markdown: kramdown
 
 sass:
   style: :compressed
+
+gems:
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/:num"

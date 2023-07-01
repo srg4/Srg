@@ -1,1 +1,6 @@
-
+lang: ru-RU
+encoding: utf-8
+url: https://ntmrk.github.io
+permalink: pretty
+highlighter: rouge
+markdown: kramdown
